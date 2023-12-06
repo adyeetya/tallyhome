@@ -64,7 +64,7 @@ export const Navbar: FC = () => {
   }
 
   return (
-    <header id="site-header" className="header header-2">
+    <nav id="site-header" className=" header header-2">
       <div className="header-top">
         <div className="container-fluid">
           <div className="row">
@@ -87,6 +87,7 @@ export const Navbar: FC = () => {
                   <div className="align-items-center text-center">
                     <span className="om-sai-ram">ॐ साईं राम</span>
                   </div>
+
                   <div className="row justify-content-center align-items-end">
                     <div className="col-md-8"></div>
                     <div className="col-md-4">
@@ -1053,6 +1054,6 @@ export const Navbar: FC = () => {
       >
         <IoIosArrowUp className="h-full w-full p-2 text-blue-700 group-hover:text-white" />
       </button>
-    </header>
+    </nav>
   )
 }

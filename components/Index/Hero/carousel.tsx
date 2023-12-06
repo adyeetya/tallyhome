@@ -9,19 +9,49 @@ function UncontrolledExample() {
             display: 'flex',
             justifyContent: 'space-between',
             alignItems: 'center',
-            padding: '8rem',
-            gap: '40px',
+            paddingLeft: '15%',
+            paddingRight: '15%',
+            paddingTop: '8rem',
+            paddingBottom: '8rem',
+            gap: '10%',
+            lineHeight: '32px',
           }}
         >
           <div className="left-content">
-            <h1>ERPs Global Provider</h1>
-            <div className="button-group mt-6">
-              <button className="btn">Learn more</button>
-              <button className="btn">Contact us</button>
+            <h1>Tally Implementation and Integration</h1>
+            <div className="animated3 mt-5">
+              <a
+                className="btn btn-2"
+                href="Custom-Built-Solutions-In-Tally-ERP9.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Learn More</span>
+              </a>
+              <a
+                className="btn btn-2 btn-border"
+                href="Contact-Authorized-Tally-Solution-Unit.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text ">Contact Us</span>
+              </a>
             </div>
           </div>
           <div className="right-content">
-            <img src="/images/Asset-5.png" alt="car-img" />
+            <div
+              className="image"
+              style={{
+                width: '400px',
+                height: '400px',
+
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}
+            >
+              <img src="/images/Asset-3.png" alt="car-img" />
+            </div>
           </div>
         </div>
       </Carousel.Item>
@@ -31,19 +61,47 @@ function UncontrolledExample() {
             display: 'flex',
             justifyContent: 'space-between',
             alignItems: 'center',
-            padding: '8rem',
-            gap: '40px',
+            paddingLeft: '15%',
+            paddingRight: '15%',
+            paddingTop: '8rem',
+            paddingBottom: '8rem',
+            gap: '10%',
           }}
         >
           <div className="left-content">
-            <h1>ERPs Global Provider</h1>
-            <div className="button-group mt-6">
-              <button className="btn">Learn more</button>
-              <button className="btn">Contact us</button>
+            <h1>Developing Business Technologies</h1>
+            <div className="animated3 mt-5">
+              <a
+                className="btn btn-2"
+                href="Custom-Built-Solutions-In-Tally-ERP9.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Learn More</span>
+              </a>
+              <a
+                className="btn btn-2 btn-border"
+                href="Contact-Authorized-Tally-Solution-Unit.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Contact Us</span>
+              </a>
             </div>
           </div>
           <div className="right-content">
-            <img src="/images/Asset-5.png" alt="car-img" />
+            <div
+              className="image"
+              style={{
+                width: '400px',
+                height: '400px',
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}
+            >
+              <img src="/images/Asset-4.png" alt="car-img" />
+            </div>
           </div>
         </div>
       </Carousel.Item>
@@ -53,21 +111,147 @@ function UncontrolledExample() {
             display: 'flex',
             justifyContent: 'space-between',
             alignItems: 'center',
-            padding: '8rem',
-            gap: '40px',
+            paddingLeft: '15%',
+            paddingRight: '15%',
+            paddingTop: '8rem',
+            paddingBottom: '8rem',
+            gap: '10%',
           }}
         >
           <div className="left-content">
-            <h1>ERPs Global Provider</h1>
-            <div className="button-group mt-6">
-              <button className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...">
-                Save Changes
-              </button>
-              <button className="btn">Contact us</button>
+            <h1>Building ERP&apos;s Globally</h1>
+            <div className="animated3 mt-5">
+              <a
+                className="btn btn-2"
+                href="Custom-Built-Solutions-In-Tally-ERP9.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Learn More</span>
+              </a>
+              <a
+                className="btn btn-2 btn-border"
+                href="Contact-Authorized-Tally-Solution-Unit.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Contact Us</span>
+              </a>
             </div>
           </div>
           <div className="right-content">
-            <img src="/images/Asset-5.png" alt="car-img" width={500} />
+            <div
+              className="image"
+              style={{
+                width: '400px',
+                height: '400px',
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}
+            >
+              <img src="/images/Asset-5.png" alt="car-img" />
+            </div>
+          </div>
+        </div>
+      </Carousel.Item>
+      <Carousel.Item>
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            paddingLeft: '15%',
+            paddingRight: '15%',
+            paddingTop: '8rem',
+            paddingBottom: '8rem',
+            gap: '10%',
+          }}
+        >
+          <div className="left-content">
+            <h1>Tally ERP Customization</h1>
+            <div className="animated3 mt-5">
+              <a
+                className="btn btn-2"
+                href="Custom-Built-Solutions-In-Tally-ERP9.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Learn More</span>
+              </a>
+              <a
+                className="btn btn-2 btn-border"
+                href="Contact-Authorized-Tally-Solution-Unit.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Contact Us</span>
+              </a>
+            </div>
+          </div>
+          <div className="right-content">
+            <div
+              className="image"
+              style={{
+                width: '400px',
+                height: '400px',
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}
+            >
+              <img src="/images/Asset-6.png" alt="car-img" />
+            </div>
+          </div>
+        </div>
+      </Carousel.Item>
+      <Carousel.Item>
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            paddingLeft: '15%',
+            paddingRight: '15%',
+            paddingTop: '8rem',
+            paddingBottom: '8rem',
+            gap: '10%',
+          }}
+        >
+          <div className="left-content">
+            <h1>Authorized ERP Solutions</h1>
+            <div className="animated3 mt-5">
+              <a
+                className="btn btn-2"
+                href="Custom-Built-Solutions-In-Tally-ERP9.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Learn More</span>
+              </a>
+              <a
+                className="btn btn-2 btn-border"
+                href="Contact-Authorized-Tally-Solution-Unit.php"
+              >
+                {' '}
+                <span className="btn-icon btn-arrow" />
+                <span className="btn-text">Contact Us</span>
+              </a>
+            </div>
+          </div>
+          <div className="right-content">
+            <div
+              className="image"
+              style={{
+                width: '400px',
+                height: '400px',
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}
+            >
+              <img src="/images/Asset-7.png" alt="car-img" />
+            </div>
           </div>
         </div>
       </Carousel.Item>
@@ -76,4 +260,3 @@ function UncontrolledExample() {
 }
 
 export default UncontrolledExample
-

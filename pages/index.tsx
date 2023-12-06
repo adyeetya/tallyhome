@@ -1,6 +1,6 @@
 import { NextPage } from "next";
 import { Layout } from "@components/Layout";
-import { Hero } from "@components/Index/Hero";
+import Hero  from "@components/Index/Hero";
 import { About } from "@components/Index/About";
 import { Company } from "@components/Index/Company";
 import { Services } from "@components/Index/Services";
@@ -10,7 +10,7 @@ import {Useful} from "@components/Index/Useful";
 import {Form} from "@components/Index/Form";
 const HomePage: NextPage = () => {
   return (
-    <Layout title="Anasayfa" children={""}>
+    <Layout title="Anasayfa" >
       <Hero />
 
       <About />

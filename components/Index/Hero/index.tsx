@@ -23,10 +23,13 @@ const Hero = () => {
     <section
       className="mx-auto "
       id="home"
-      style={{ backgroundColor: '#ffe01b' }}
+      style={{
+        backgroundImage: 'url("/images/bg1.webp")',
+        backgroundSize: 'cover',
+      }}
     >
       <div className="inline-block w-full h-full z-index-1">
-        <div className="w-full min-h-screen -z-1 bg-gradient-to-r from-yellow-500 via-yellow-500 to-yellow-500 pt-8">
+        <div className="w-full min-h-screen -z-1 pt-8 leading-8">
           <Carousel />
         </div>
       </div>
